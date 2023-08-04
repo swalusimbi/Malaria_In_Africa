@@ -1,7 +1,4 @@
-# Recess Project Template
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-![Project Logo](Recess_Project_Template/resources/images/logo.png)
+## MALARIA IN AFRICA GROUP B
 
 ## Table of Contents
 - [Introduction](#introduction)
